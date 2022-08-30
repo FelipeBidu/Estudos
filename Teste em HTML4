@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Meu Site Html4</title>
+    </head>
+    <body bgcolor="pink" >
+        <center><h1>Exemplo de Site Html4</h1></center>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas in maiores vitae rem ipsam aspernatur, dicta tenetur ducimus cupiditate necessitatibus obcaecati unde iusto nostrum possimus omnis voluptates non repellat. Dolorum.</p>
+        <marquee behavior=""></marquee>
+    </body>
+
+
+</html>
