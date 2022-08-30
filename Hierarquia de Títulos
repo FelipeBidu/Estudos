@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Hierarquia de titulos</title>
+</head>
+<body>
+     <h1>Entendendo Portugal</h1>
+     <h2>Introdução </h2>
+     <h3> Justificativa da Tématica</h3>
+     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, earum veritatis quam suscipit accusamus consequuntur fugit rem possimus ex facilis unde error totam doloribus quae illo facere, asperiores, est perferendis?</p>
+     <h3> Caráter excecional</h3>
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ipsam aperiam voluptatem iusto facilis, inventore aut laborum quaerat! Debitis libero perspiciatis voluptate obcaecati, ut nostrum. Necessitatibus odit et sunt soluta!</p>
+     <h3>Perguntas de partida</h3>
+     <h3>Metodologia de investigação</h3>
+     <h4>Etapas de Investigação</h4>
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis enim molestiae odit ullam recusandae nemo dolores, dolorum architecto quae pariatur perferendis sunt quasi ducimus ut corrupti similique id tenetur mollitia?</p>
+     <h4>Instrumentos de anélise</h4>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio id expedita laborum officia. Mollitia eligendi, officia, magnam officiis in distinctio repellendus sequi unde repudiandae omnis doloribus est animi minima porro.</p>
+     <h2>Ordenamento do território em portugual</h2>     
+</body>
+</html>
